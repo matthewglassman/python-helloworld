@@ -1,0 +1,13 @@
+2021-06-14 20:53:43,782,_log: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-14 20:53:43,782,_log: * Running on http://192.168.1.65:5000/ (Press CTRL+C to quit)
+2021-06-14 20:53:53,094,hello:{TIMESTAMP}, {ENDPOINT} endpoint has been reached.
+2021-06-14 20:53:53,095,_log:127.0.0.1 - - [14/Jun/2021 20:53:53] "GET / HTTP/1.1" 200 -
+2021-06-14 20:53:59,045,healthstatus:{TIMESTAMP}, {ENDPOINT} endpoint has been reached.
+2021-06-14 20:53:59,045,_log:127.0.0.1 - - [14/Jun/2021 20:53:59] "GET /status HTTP/1.1" 200 -
+2021-06-14 20:54:07,514,useage:Metrics endpoint has been reached
+2021-06-14 20:54:07,514,_log:127.0.0.1 - - [14/Jun/2021 20:54:07] "GET /metrics HTTP/1.1" 200 -
+2021-06-14 20:54:12,831,healthstatus:{TIMESTAMP}, {ENDPOINT} endpoint has been reached.
+2021-06-14 20:54:12,831,_log:127.0.0.1 - - [14/Jun/2021 20:54:12] "GET /status HTTP/1.1" 200 -
+2021-06-14 20:54:17,530,hello:{TIMESTAMP}, {ENDPOINT} endpoint has been reached.
+2021-06-14 20:54:17,531,_log:127.0.0.1 - - [14/Jun/2021 20:54:17] "GET / HTTP/1.1" 200 -
