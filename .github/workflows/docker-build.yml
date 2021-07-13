@@ -1,5 +1,3 @@
-#This will hold a yaml file to build and push Docker image for a python web app
-
 name: Docker-Build
 on:
   push:
