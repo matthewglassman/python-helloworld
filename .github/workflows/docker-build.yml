@@ -30,4 +30,4 @@ jobs:
         file: ./Dockerfile
         platforms: linux/amd64
         push: true
-        tags: matthewglassman/python-helloworld:latest
+        tags: doughdocker/python-helloworld:latest
